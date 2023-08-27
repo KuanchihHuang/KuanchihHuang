@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 3D Computer Vision for autonomous systems.
+- 🌱 Any collaboration for related research topics is welcome.
+- 👯 I always have the bandwidth for any exciting research project.
+- 📫 Email: s928001810@gmail.com, kuanchih1huang@gmail.com
+
 <!--
 **KuanchihHuang/KuanchihHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
