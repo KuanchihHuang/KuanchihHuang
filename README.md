@@ -4,7 +4,7 @@
 - 🌱 Any collaboration for related research topics is welcome.
 - 👯 I always have the bandwidth for any exciting research project.
 - 🔭 Website: [https://kuanchihhuang.github.io/](https://kuanchihhuang.github.io/)
-- 📫 Email: s928001810@gmail.com, kuanchih1huang@gmail.com
+- 📫 Email: s928001810 [AT] gmail.com, kuanchih1huang [AT] gmail.com
 
 <!--
 **KuanchihHuang/KuanchihHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
